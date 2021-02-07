@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Phone Number Authentication</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome User</string>
+    <string name="verify">Verify Your Number</string>
+    <string name="instruction_phone">Please enter your Country Code and Phone Number for verification</string>
+    <string name="code">+91</string>
+    <string name="enter_number">Your Phone Number</string>
+    <string name="generate_otp">Generate OTP</string>
+    <string name="author">Vandit</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="instruction_otp">We have sent you an OTP for phone number verification</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="login_feedback">Working...</string>
+    <string name="login_feedback_entry">Please Enter all The Values</string>
+</resources>

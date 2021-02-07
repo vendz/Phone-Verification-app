@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "130426304882",
+    "project_id": "phone-number-authenticat-526e6",
+    "storage_bucket": "phone-number-authenticat-526e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130426304882:android:583365d66f6cd0853285eb",
+        "android_client_info": {
+          "package_name": "com.example.phonenumberauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130426304882-u426kb85ikk96vt9hl2f6l0asn76eje7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb3CZoDUk7D2e_Z4j8xfS2pzqr9gUjm6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130426304882-u426kb85ikk96vt9hl2f6l0asn76eje7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
